@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sunshine_wyt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">刷新</string>
+    <string name="title_activity_detail">详情</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="pref_location_title">位置</string>
+    <string name="pref_location_key">pref_location</string>
+    <string name="pref_location_default_summary">伦敦</string>
+    <string name="pref_location_default">94043</string>
+    <string name="pref_units_type">气温单位</string>
+    <string name="pref_units_type_default">metric</string>
+    <string name="pref_units_type_key">pref_units_type</string>
+    <string name="action_map">位置</string>
+    <string name="share_title">分享</string>
+
+</resources>
